@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Super Contact</string>
+    <string name="textView">Kontak</string>
+    <string name="textView1">Yulius Harry</string>
+    <string name="textView2">Desi Tripurwati</string>
+    <string name="textViewSecond">Detail Kontak :</string>
+    <string name="textViewSecond1">Yulius Harry</string>
+    <string name="textViewSecond2">081390051742</string>
+    <string name="textViewSecond3">yuliushrr@gmail.com</string>
+    <string name="button1">Kirim Email</string>
+    <string name="button2">Kirim SMS</string>
+    <string name="button3">Panggil Telepon</string>
+    <string name="Second_Activ">Super Contact</string>
+</resources>
